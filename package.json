@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aksakalli/gtop.git"
+    "url": "git+https://github.com/skim0119/gtop.git"
   },
   "keywords": [
     "system",
@@ -26,12 +26,13 @@
   "author": "aksakalli",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aksakalli/gtop/issues"
+    "url": "https://github.com/skim0119/gtop/issues"
   },
-  "homepage": "https://github.com/aksakalli/gtop#readme",
+  "homepage": "https://github.com/skim0119/gtop#readme",
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.6",
+    "blessed-contrib": "^4.8.11",
+    "marked": "^0.3.19",
     "systeminformation": "^3.45.6"
   },
   "engines": {
