@@ -4,7 +4,8 @@
   "description": "graphic top",
   "main": "./index.js",
   "bin": {
-    "gtop": "./bin/gtop"
+    "gtop": "./bin/gtop",
+    "gtop2": "./bin/gtop2"
   },
   "scripts": {
     "test": "echo \"Test will be implemented.\" && exit 0",
@@ -31,11 +32,12 @@
   "homepage": "https://github.com/skim0119/gtop#readme",
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.11",
-    "marked": "^0.3.19",
+    "blessed-contrib": "^4.8.15",
+    "marked": "^0.6.2",
     "systeminformation": "^3.45.6"
   },
   "engines": {
     "node": ">=4.0.0"
-  }
+  },
+  "devDependencies": {}
 }
