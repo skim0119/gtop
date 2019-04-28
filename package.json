@@ -4,8 +4,7 @@
   "description": "graphic top",
   "main": "./index.js",
   "bin": {
-    "gtop": "./bin/gtop",
-    "gtop2": "./bin/gtop2"
+    "gtop": "./bin/gtop"
   },
   "scripts": {
     "test": "echo \"Test will be implemented.\" && exit 0",
